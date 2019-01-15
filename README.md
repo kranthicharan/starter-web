@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-introduce
+introduce. please fork this repository and issue pull request
 
 ## Description
 
