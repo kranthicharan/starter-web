@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## Paragraph
 
 Sample paragraph
+
+###Copyright
+
+2019 git.training
