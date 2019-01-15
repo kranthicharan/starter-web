@@ -7,7 +7,7 @@
 
 # THANKS
 
-    to all my students
+    to all my students. an example for stash for branch
     please leave a review if you like this course
 
 # TECHNOLOGY COLOPHON
