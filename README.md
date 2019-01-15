@@ -8,7 +8,7 @@ introduce
 
 ## Description
 
-describe
+describe the details
 
 ## Purpose
 
