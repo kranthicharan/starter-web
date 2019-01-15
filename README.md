@@ -8,8 +8,12 @@ introduce
 
 ## Description
 
-describe the details
+sample description the details
 
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Paragraph
+
+Sample paragraph
