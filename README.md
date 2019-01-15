@@ -20,4 +20,4 @@ Sample paragraph
 
 ###Copyright
 
-2019 git.training
+2019 git.training. All rights reserved
